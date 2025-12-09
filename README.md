@@ -17,4 +17,20 @@
 <li>🎯 Goal: Expert in Networking and Cybersecurity & Engineer secure and resilient networks with Linux at the core</li>
 </ul>
 
-<hr style="margin-top:0.5em;">
+<hr>
+
+<h2 id="projects">🚀 Projects</h2>
+
+<p>
+Currently working on learning projects.
+This section will soon be updated with real-world work, especially in
+<b>Front-End, Linux, Networking and Cybersecurity</b>.
+</p>
+
+<ul style="list-style-type:none; padding-left:0;">
+<li>🚧 <i>Projects will be added soon....</i></li>
+</ul>
+
+<hr>
+
+
