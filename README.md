@@ -1,10 +1,6 @@
-<!-- Name -->
-<h1 align="center" style="margin-bottom:0;">𝗛𝗜, 𝗜’𝗠 𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗡𝗔𝗗𝗘𝗥𝗜 👋</h1>
 
-<!-- Default GitHub horizontal line -->
-<hr style="margin-top:0.3em; margin-bottom:0.5em;">
+<h1 align="center" style="margin-bottom:0;">𝐇𝐢, 𝐈’𝐌 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐝𝐞𝐫𝐢 👋</h1>
 
-<!-- Subtitle with vertical bar separator -->
-<h3 align="center" style="margin-top:0.5em;">
+<h3 align="center" style="margin:0.2em 0 0 0;">
   Front-End Developer | Linux & Open-Source Advocate | Exploring Networking, Cybersecurity & Blockchain
 </h3>
