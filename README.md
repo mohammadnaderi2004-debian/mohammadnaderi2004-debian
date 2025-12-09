@@ -56,3 +56,9 @@ This section will soon be updated with real-world work, especially in
 💬 Telegram: <a href="https://t.me/whosMohammad" target="_blank">https://t.me/whosMohammad</a><br>
 📨 Email: <a href="mailto:mohammmad.naderi.2004@gmail.com">mohammmad.naderi.2004@gmail.com</a>
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohammadnaderi2004-debian&color=red&style=for-the-badge" alt="views" />
+</p>
+
+<hr>
