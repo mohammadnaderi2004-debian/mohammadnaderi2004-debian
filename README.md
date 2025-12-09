@@ -51,4 +51,8 @@ This section will soon be updated with real-world work, especially in
 
 <hr>
 
-
+<h2 id="contact">📫 Connect with Me</h2>
+<p align="left">
+💬 Telegram: <a href="https://t.me/whosMohammad" target="_blank">https://t.me/whosMohammad</a><br>
+📨 Email: <a href="mailto:mohammmad.naderi.2004@gmail.com">mohammmad.naderi.2004@gmail.com</a>
+</p>
